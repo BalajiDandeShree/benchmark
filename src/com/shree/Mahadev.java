@@ -1,2 +1,4 @@
-package com.shree;public class Mahadev {
+package com.shree;
+
+public class Mahadev {
 }
